@@ -15,7 +15,6 @@ on:
         default: '12.1'
         type: choice
         options:
-        - 13.0
         - 12.1
         - 11.0
         - 10.0
